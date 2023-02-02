@@ -1,0 +1,23 @@
+{
+    "robot_type" :"Phenotype",
+    "field_name":"automation_field_1",
+    "crop":"Soybean",
+    "custom_crop":"Oats",
+    "exit_add_crop_mulitiple_times":"2",
+    "plant_space": "24",
+    "min_column":"100",
+    "max_column":"200",
+    "min_range":"100",
+    "max_range":"200",
+    "row_width":"24",
+    "row_per_column":"24",
+    "plot_length":"24",
+    "neg_field_name":["1234","@@@!$%","123@!#4"],
+    "neg_min_col":["abc","@!#$","abc@!$%^"],
+    "neg_max_col":["abc","@!#$","ac@!$%^"],
+    "neg_min_range":["abc","@!#$","abc@!$%^"],
+    "neg_max_range":["abc","@!#$","ac@!$%^"],
+    "max_col_value" :"100000",
+    "max_range_value":"10000000"
+
+}
